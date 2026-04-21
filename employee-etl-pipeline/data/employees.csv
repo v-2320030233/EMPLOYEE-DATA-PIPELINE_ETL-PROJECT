@@ -1,0 +1,33 @@
+employee_id,name,department,salary,join_date,email,age
+1,Alice Smith,Engineering,90000,2021-03-15,alice@example.com,28
+2,Bob Johnson,HR,60000,2022-01-10,bob@example.com,35
+3,Charlie Brown,Sales,75000,2020-11-05,charlie@example.com,42
+4,David Wilson,Marketing,82000,2023-02-20,david@example.com,29
+5,Eve Davis,Engineering,95000,2019-07-12,eve@example.com,38
+6,Frank Miller,Sales,-50000,2021-09-01,frank@example.com,45
+7,Grace Lee,HR,62000,2022/05/15,grace@example.com,
+8,Henry White,Engineering,Not Available,2020-08-25,henry@example.com,31
+9,Ivy Clark,,70000,2021-12-10,ivy@example.com,26
+10,Jack Thomas,Marketing,80000,10-10-2022,jack@example.com,34
+11,Karen Martinez,Engineering,105000,2018-04-18,karen@example.com,41
+12,Leo Garcia,Sales,72000,2023-01-05,leo@example.com,30
+13,Mia Rodriguez,HR,64000,2021-06-22,mia@example.com,36
+14,Noah Lopez,Engineering,,2022-11-15,noah@example.com,27
+15,Olivia Perez,Marketing,85000,2020-03-30,olivia@example.com,33
+16,Paul Williams,Sales,77000,2019-09-14,paul@example.com,40
+17,Quinn Taylor,Engineering,92000,2022-08-08,quinn@example.com,29
+18,Rachel Moore,HR,61000,2023-04-01,rachel@example.com,
+3,Charlie Brown,Sales,75000,2020-11-05,charlie@example.com,42
+19,Sam Anderson,Marketing,83000,2021-02-18,sam@example.com,37
+20,Tina Thomas,Engineering,88000,2020-10-10,tina@example.com,32
+21,Uma Jackson,Sales,74000,2022-07-25,uma@example.com,28
+22,Victor White,HR,-65000,2019-12-05,victor@example.com,45
+23,Wendy Harris,Engineering,96000,2021-05-20,wendy@example.com,39
+24,Xander Martin,,81000,2023-03-12,xander@example.com,31
+25,Yara Thompson,Marketing,86000,2020-01-28,yara@example.com,35
+26,Zack Garcia,Sales,79000,2022-09-17,zack@example.com,
+27,Amy Martinez,Engineering,94000,2018-11-02,amy@example.com,40
+28,Ben Robinson,HR,63000,2021-08-30,ben@example.com,33
+29,Cathy Clark,Marketing,84000,2022-02-14,cathy@example.com,27
+30,Dan Lewis,Engineering,Error,2020-06-19,dan@example.com,34
+11,Karen Martinez,Engineering,105000,2018-04-18,karen@example.com,41

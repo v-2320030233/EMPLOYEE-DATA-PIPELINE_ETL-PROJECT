@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment
+.env
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Database
+*.sqlite3
+
+share/jupyter/
+node_modules/
+venv/
+__pycache__/
+*.pyc
+.env
